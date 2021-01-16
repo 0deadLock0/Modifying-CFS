@@ -1,9 +1,3 @@
-/*
-	Name: Abhimanyu Gupta
-	Roll_Number: 2019226
-	
-	Assignment 3
-*/
 
 #include <stdio.h>
 #include <unistd.h>
